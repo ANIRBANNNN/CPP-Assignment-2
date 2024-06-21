@@ -1,0 +1,10 @@
+C++ Assignments 2 week 1
+Question 1. Enter first number
+	    2
+	    Enter second number and value for taking modulus
+	    3
+	    6
+	    Output is:0
+Question 2.Output is 1 1
+Question 3. 2
+Question 6. 49
